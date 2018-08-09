@@ -49,7 +49,7 @@
     </customType>
   </customTypes>
   <depends>EC-Core</depends>
-  <depends min="1.4.1">EC-PluginManager</depends>
+  <depends min="1.4.0">EC-PluginManager</depends>
   <description>A flexible plugin to display the content of proeprties in different formats.</description>
   <help>help.xml</help>
   <key>unplug</key>
